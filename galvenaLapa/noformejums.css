@@ -1,0 +1,15 @@
+.atstarpe{
+    padding: 10px;
+}
+
+html{
+    background-color: rgb(223, 255, 255);
+}
+
+.main{
+    border:solid;
+    border: 20px;
+    border-color: rgb(223, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+}
