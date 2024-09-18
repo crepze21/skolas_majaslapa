@@ -7,11 +7,12 @@ html{
 }
 
 .main{
+   
     border-style:solid;
     border-top-width: 20px;
-    border-bottom-width: 0px;
+    border-bottom-width: 20px;
     border-left-width: 30px;
     border-right-width: 30px;
     border-color: rgb(223, 255, 255);
-
+    
 }
